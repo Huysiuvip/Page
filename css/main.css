@@ -118,7 +118,7 @@
   
   .productImg{
     @apply w-full  md:w-1/2 h-62.5 md:h-175 md:rounded-tr-[80px] md:rounded-br-[80px] object-cover 
-  }.
+  }
   .tab-link{
     @apply font-semibold hover:text-n-700
   }
