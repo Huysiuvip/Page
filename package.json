@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "tailwindcss -i ./css/main.css -o ./dist/output.css --minify",
-    "dev": "tailwindcss -i ./css/main.css -o ./dist/output.css --watch"
+    "build": "npx tailwindcss -i ./css/main.css -o ./dist/output.css --minify",
+    "dev": "npx tailwindcss -i ./css/main.css -o ./dist/output.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^4.1.18"
